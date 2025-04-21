@@ -107,5 +107,8 @@ In this guide, we will outline milestones, resources, and deliverables to help s
 
 
 ## Resources 
-How to write a scientific paper: https://dunkin.eeb.ucsc.edu/images/documents/How_to_write_a_scientific_paper.pdf
-How to read an academic paper: https://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/
+[How to write a scientific](paper: https://dunkin.eeb.ucsc.edu/images/documents/How_to_write_a_scientific_paper.pdf)
+[How to read an academic paper](https://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/)
+[HCI Contributions list](https://chi2022.acm.org/for-authors/presenting/papers/contributions-to-chi/?utm_source=chatgpt.com)
+[HCI Reviewing papers criteria](https://chi2025.acm.org/guide-to-reviewing-papers/)
+
